@@ -9,5 +9,6 @@ The photos are taken from the song "Sit Next To Me" by Foster and the People.
 * Edit "song" var in "sketch.js" to include your choice mp3. 
 
 Two images of the visualizer in action:
+
 ![Alt text](vis_1.png?raw=true "Visualizer Picture")
 ![Alt text](vis_2.png?raw=true "Visualizer Picture")
